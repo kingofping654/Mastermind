@@ -1,0 +1,3 @@
+# Mastermind
+
+The last project I made was a simple game of Tic-Tac-Toe so it is only fitting that I follow it up with a simple game of Mastermind. I had actually never played Mastermind before this project. Making the computer create a code and evaluate my guesses was pretty easy to do. Now getting the computer to guess my code was much more difficult. I basically just had to create multiple variables to store the colors that had been guessed correctly, incorectly, and semi-correctly. The game does work either way but not so good when you add duplicate colors to the mix.... Eventually I would like to add a GUI to this and Tic-Tac-Toe but that isn't for anthoer day. If you do sit down for a round have fun!
